@@ -1,8 +1,9 @@
+
+
+## I'm a beginner **``AI``** developer and Competitive **``programmer``**
 <p align="center">
   <img src="https://i.gifer.com/embedded/download/58TC.gif" alt="Header">
 </p>
-
-## I'm a beginner **``AI``** developer and Competitive **``programmer``**
 
 ---
 
