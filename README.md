@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/download/pCDtbW6/](https://i.gifer.com/embedded/download/4u6f.gif" alt="Header">
+  <img src="https://i.gifer.com/embedded/download/58TC.gif" alt="Header">
 </p>
 
 ## I'm a beginner **``AI``** developer and Competitive **``programmer``**
