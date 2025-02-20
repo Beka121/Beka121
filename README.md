@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/4u6f.gif" alt="Header">
+  <img src="https://i.gifer.com/U55Q.gif" alt="Achievements Header">
 </p>
 
 # 🌟 I'm a beginner **``AI``** developer and Competitive **``programmer``** 🚀
@@ -23,9 +23,7 @@
 ## 🏆 Achievements  
 ### **Coming soon...**  
 
-<p align="center">
-  <img src="https://i.gifer.com/U55Q.gif" alt="Achievements Header">
-</p>
+
 
 ---
 
