@@ -21,6 +21,7 @@
 ---
 
 ## 🏆 Achievements  
+1) Second place in the Armwrestling in Ala-Too university.
 ### **Coming soon...**  
 
 
