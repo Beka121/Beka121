@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/U55Q.gif" alt="Achievements Header">
 </p>
 
-# 🌟 Student at Ala-Too International University | Future Microelectronics Engineer 🚀
+#  Student at Ala-Too International University | Future Microelectronics Engineer 🚀
 
 ---
 
