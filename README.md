@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/U55Q.gif" alt="Achievements Header">
 </p>
 
-# 🌟 I'm a beginner **``AI``** developer and Competitive **``programmer``** 🚀
+# 🌟 Student at Ala-Too International University | Future Microelectronics Engineer 🚀
 
 ---
 
@@ -17,6 +17,23 @@
   <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/-Pytorch-090909?style=for-the-badge&logo=pytorch&logoColor=red">
 </p>
+
+---
+
+## 🔧 Embedded & Hardware Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/-ESP32-090909?style=for-the-badge&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=00979D">
+  <img src="https://img.shields.io/badge/-PlatformIO-090909?style=for-the-badge&logo=platformio&logoColor=F5822A">
+  <img src="https://img.shields.io/badge/-EasyEDA-090909?style=for-the-badge&logoColor=white">
+</p>
+
+- ⚡ ESP32 firmware development with ESP-IDF (via PlatformIO)
+- 🔌 PCB schematic design in EasyEDA (pull-up resistors, decoupling capacitors, ground stitching vias)
+- 📡 Wireless & communication modules: GSM (SIM800L), BLE, WiFi, nRF24L01, RS485/Modbus
+- ☀️ MPPT solar charge controllers & DC-DC power systems
+- 🛠️ Hardware debugging: continuity testing, serial/UART bring-up, audio & display module troubleshooting
+- 🌡️ Environmental reliability testing (cold-chamber testing down to -25°C)
 
 ---
 
