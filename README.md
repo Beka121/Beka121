@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/U55Q.gif" alt="Achievements Header">
 </p>
 
-#  Student at Ala-Too International University | Future Microelectronics Engineer 🚀
+# 🌟 Student at Ala-Too International University | Future Microelectronics Engineer 🚀
 
 ---
 
@@ -39,6 +39,8 @@
 
 ## 🏆 Achievements  
 1) Second place in arm wrestling at Ala-Too University.
+2) 2nd place at AI Hackathon.
+3) Internship at The Tech.
 ### **Coming soon...**  
 
 
